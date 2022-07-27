@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F4CEE7A22890CB6000FD091B /* contacts.json in Resources */ = {isa = PBXBuildFile; fileRef = F4CEE7A12890CB6000FD091B /* contacts.json */; };
+		F4CEE7A42890D28700FD091B /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CEE7A32890D28700FD091B /* WelcomeView.swift */; };
 		F4E04FC328892830009EB44B /* ContactListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E04FC228892830009EB44B /* ContactListApp.swift */; };
 		F4E04FC728892831009EB44B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4E04FC628892831009EB44B /* Assets.xcassets */; };
 		F4E04FCA28892831009EB44B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4E04FC928892831009EB44B /* Preview Assets.xcassets */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		F4CEE7A12890CB6000FD091B /* contacts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = contacts.json; path = "../../../../../Downloads/contactsJsonFile/contact json with map geolocation/contacts.json"; sourceTree = "<group>"; };
+		F4CEE7A32890D28700FD091B /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 		F4E04FBF28892830009EB44B /* ContactList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E04FC228892830009EB44B /* ContactListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactListApp.swift; sourceTree = "<group>"; };
 		F4E04FC628892831009EB44B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				F4E04FE0288928E3009EB44B /* ContentView.swift */,
 				F4E04FE2288928EF009EB44B /* InfoView.swift */,
 				F4E04FE4288928F5009EB44B /* MapView.swift */,
+				F4CEE7A32890D28700FD091B /* WelcomeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				F4E04FDF288928D7009EB44B /* ContactRow.swift in Sources */,
 				F4E04FD728892871009EB44B /* ModelData.swift in Sources */,
 				F4E04FDD288928CF009EB44B /* ContactList.swift in Sources */,
+				F4CEE7A42890D28700FD091B /* WelcomeView.swift in Sources */,
 				F4E04FE1288928E3009EB44B /* ContentView.swift in Sources */,
 				F4E04FC328892830009EB44B /* ContactListApp.swift in Sources */,
 				F4E04FD9288928BE009EB44B /* CircleImage.swift in Sources */,
