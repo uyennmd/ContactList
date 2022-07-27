@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F4CEE7A22890CB6000FD091B /* contacts.json in Resources */ = {isa = PBXBuildFile; fileRef = F4CEE7A12890CB6000FD091B /* contacts.json */; };
 		F4E04FC328892830009EB44B /* ContactListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E04FC228892830009EB44B /* ContactListApp.swift */; };
 		F4E04FC728892831009EB44B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4E04FC628892831009EB44B /* Assets.xcassets */; };
 		F4E04FCA28892831009EB44B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4E04FC928892831009EB44B /* Preview Assets.xcassets */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F4CEE7A12890CB6000FD091B /* contacts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = contacts.json; path = "../../../../../Downloads/contactsJsonFile/contact json with map geolocation/contacts.json"; sourceTree = "<group>"; };
 		F4E04FBF28892830009EB44B /* ContactList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E04FC228892830009EB44B /* ContactListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactListApp.swift; sourceTree = "<group>"; };
 		F4E04FC628892831009EB44B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				F4E04FD22889285A009EB44B /* ColorConstants.swift */,
 				F4E04FD428892868009EB44B /* Contact.swift */,
 				F4E04FD628892871009EB44B /* ModelData.swift */,
+				F4CEE7A12890CB6000FD091B /* contacts.json */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4E04FCA28892831009EB44B /* Preview Assets.xcassets in Resources */,
+				F4CEE7A22890CB6000FD091B /* contacts.json in Resources */,
 				F4E04FC728892831009EB44B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
